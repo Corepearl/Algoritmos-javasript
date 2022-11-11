@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background: url("https://img.freepik.com/vector-gratis/fondo-digital-azul-copia-espacio_23-2148821698.jpg?w=740&t=st=1668137479~exp=1668138079~hmac=2abb4159721fc428d09ce1f5d3c3a7a905955059c393f781d7bfeee91ab1939a") ;
+    background-size: cover;
+    text-align: center;
+}
+
+h2{ 
+
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+
+button{
+
+    padding: 15px 40 px;
+    font-size: 22px;
+    background: transparent;
+    border: 3px solid #eaeef1;
+    color: #fafafa;
+    cursor: pointer;
+    transition: .5s;
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button:hover{
+
+    border: 3px solid rgb(0, 255, 213);
+    color: rgb(243, 243, 243);
+    border-radius: 30px;
+    background: #9C9EFE;
+
+}
+
